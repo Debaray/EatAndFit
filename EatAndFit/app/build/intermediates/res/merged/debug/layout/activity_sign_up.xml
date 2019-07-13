@@ -1,0 +1,166 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.debar.eatandfit.SignUp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/activity_signup"
+
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:layout_marginTop="16dp"
+            android:id="@+id/LtNameBox"
+            android:hint="Last Name"
+            android:textSize="30sp"
+            android:layout_below="@+id/lastName"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/PasswordBoxSIgn"
+            android:hint="Password"
+            android:textSize="30sp"
+            android:layout_marginTop="11dp"
+            android:layout_below="@+id/PassSign"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:id="@+id/EmailSign"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:textStyle="normal|bold"
+            android:layout_below="@+id/LtNameBox"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/EmailBoxSign"
+            android:hint="Email"
+            android:textSize="30sp"
+            android:layout_below="@+id/EmailSign"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="17dp" />
+
+        <TextView
+            android:text="Confrim Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:id="@+id/ConfirmPass"
+            android:textSize="30sp"
+            android:textStyle="normal|bold"
+            android:textColor="@android:color/black"
+            android:layout_below="@+id/PasswordBoxSIgn"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="First Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/firstName"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            android:textStyle="normal|bold"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="Last Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lastName"
+            android:textColor="@android:color/black"
+            android:textStyle="normal|bold"
+            android:textSize="30sp"
+            android:layout_below="@+id/FtNameBox"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="12dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/ConfirmPassBoxSign"
+            android:hint="Confirm Password"
+            android:textSize="30sp"
+
+            android:layout_marginTop="19dp"
+            android:layout_below="@+id/ConfirmPass"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/FtNameBox"
+            android:hint="First Name"
+
+            android:textSize="30sp"
+            android:layout_below="@+id/firstName"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="12dp" />
+
+        <Button
+            android:text="Sign Up"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SignUp_2nd"
+            android:textColor="@android:color/black"
+            android:textStyle="normal|bold"
+            android:textSize="36sp"
+            android:layout_below="@+id/ConfirmPassBoxSign"
+            android:layout_marginBottom="39dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+        </LinearLayout>
+
+        <TextView
+            android:text="Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:id="@+id/PassSign"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            android:textStyle="normal|bold"
+            android:layout_below="@+id/EmailBoxSign"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "H:\\EatAndFit-20190713T190628Z-001\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\EatAndFit\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "F:\\EatAndFit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\color\\abc_btn_colored_text_material.xml"
+    }
+]

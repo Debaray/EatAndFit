@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_fitness_check"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.debar.eatandfit.FitnessCheck">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Men"
+            android:textSize="30dp"
+            android:id="@+id/Men_f"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=""
+            android:layout_marginTop="20dp"
+            android:textSize="24dp"
+            android:layout_below="@+id/Men_f"
+            android:id="@+id/Men_info"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Women"
+            android:textSize="24dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/Men_info"
+            android:id="@+id/Women_f"
+
+            android:textStyle="normal|bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textSize="24dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/Women_f"
+            android:id="@+id/Women_info"
+
+
+            android:textStyle="normal|bold" />
+
+    </RelativeLayout>
+
+</ScrollView>

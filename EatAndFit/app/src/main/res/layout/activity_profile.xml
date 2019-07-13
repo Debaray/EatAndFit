@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context="com.example.debar.eatandfit.Profile">
+        >
+
+        <TextView
+            android:text="Email "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Pro_Email"
+            android:textSize="30dp"
+            android:layout_marginTop="103dp"
+            android:textStyle="normal|bold"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="sfsfsffs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:id="@+id/EmailTx"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/Pro_Email"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="Password "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Pro_Pass"
+            android:textSize="30dp"
+            android:textStyle="normal|bold"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/EmailTx"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="cccccc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:id="@+id/PassTx"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:text="Logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Logout"
+            android:layout_marginTop="15dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+
+
+</LinearLayout>
